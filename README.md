@@ -124,6 +124,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 * [Karen Fletcher](https://knpfletcher.dev)
 * [Karthik Menon](https://karthikmenon.me/)
 * [Kenny Tran Co](https://www.kennytran.co)
+* [Kiril Delovski](http://portfolio.delovski.net)
 * [Kouceyla Hadji](https://www.behance.net/kossa)
 * [Kumar Abhirup](http://kumar.now.sh)
 * [Kyle Harrison](http://kyle.teamharrison.ca)
